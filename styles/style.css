@@ -49,3 +49,16 @@ nav img {
     text-align: center;
     padding-top: 10px;
 }
+
+.disciplinas {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.disciplinas img {
+    margin: 10px;
+    width: 400px;
+    height: auto;
+    object-fit: cover;
+}
